@@ -5,15 +5,22 @@
 ### this is an image wow!!!🎉
 ![alt text](https://octodex.github.com/images/yaktocat.png)
 
+
+``` 
+function buzzfizz (x: int){
+if x % 2 == 0 (
+print ('buzz)
+)
+else (print("fizz"))};
+```
+
+
 ## This is a list wow!
 - [ ] item1
 - [ ] item2
 - [ ] item3
 - [x] item 4
 
-```
-some code print('hello')
-```
 
 
 
